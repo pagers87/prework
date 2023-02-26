@@ -8,7 +8,7 @@ public class Main02 {
          */
 
 
-        System.out.println("Hello Java");
+        System.out.println("Hello Java11");
         System.out.println("Hello Coderslab111");
 
     }
